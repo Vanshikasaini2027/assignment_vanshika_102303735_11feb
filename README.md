@@ -72,6 +72,14 @@ Scikit-learn
 Matplotlib
 Google Colab
 
+GRAPH
+
+The Root Mean Squared Error (RMSE) was used to compare the performance of different
+machine learning models. RMSE measures the average prediction error, where lower
+values indicate better performance.
+
+![Model Comparison RMSE](graph_11feb.png)
+
 
 
 
