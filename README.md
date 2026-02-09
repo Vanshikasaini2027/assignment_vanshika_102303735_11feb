@@ -72,13 +72,17 @@ Scikit-learn
 Matplotlib
 Google Colab
 
-GRAPH
+### Model Comparison (RMSE)
 
 The Root Mean Squared Error (RMSE) was used to compare the performance of different
-machine learning models. RMSE measures the average prediction error, where lower
-values indicate better performance.
+machine learning models. Lower RMSE values indicate better prediction accuracy.
 
 ![Model Comparison RMSE](graph_11feb.png)
+
+From the comparison, linear models such as Linear Regression and Ridge Regression
+showed higher RMSE values. Tree-based models performed better due to their ability
+to model non-linear relationships. Random Forest achieved the lowest RMSE and was
+selected as the best-performing model.
 
 
 
